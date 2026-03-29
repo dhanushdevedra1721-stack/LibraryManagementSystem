@@ -1,6 +1,6 @@
 # Kotlin Library Management System
 
-**[Click here to run the application live in your browser!](https://replit.com/@username/repl-name)**
+**[Click here to run the application live in your browser!](https://replit.com/@dhanushdevendra/LibraryManagementSystem)**
 
 A console-based Library Management application written in Kotlin. This project demonstrates object-oriented programming, data classes, and real-world library workflows like book issuing, returns, overdue fines, and a simulated day system.
 
